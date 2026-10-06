@@ -1,0 +1,10 @@
+{
+  "miner_hands_equipment": "assets/miner_hands_equipment.glb",
+  "horn_monster": "assets/horn_monster.glb",
+  "fourarm_monster": "assets/fourarm_monster.glb",
+  "golem_monster": "assets/golem_monster.glb",
+  "flashlight": "assets/flashlight.glb",
+  "key": "assets/key.glb",
+  "bandage": "assets/bandage.glb",
+  "shelter_module": "assets/shelter_module.glb"
+}
