@@ -1,0 +1,95 @@
+{
+  "version": 1,
+  "addedOn": "2026-11-02",
+  "studentNumber": 16,
+  "sourceStudentNumber": 16,
+  "status": "assets_only_not_integrated",
+  "warning": "골렘은 어깨/상완 가중치 수정본입니다. 일부 눌림과 주름이 남아 있고 실제 게임 충돌/포획 검증이 필요합니다.",
+  "models": [
+    {
+      "file": "miner.glb",
+      "bytes": 3836236,
+      "sha256": "27031e7a329a596d31e1df4a2abd443f305c0b30517a9eca721ae8944514745b",
+      "skins": 1,
+      "joints": 23,
+      "animations": [
+        "miner_idle",
+        "miner_walk",
+        "miner_run",
+        "flashlight_raise",
+        "key_use",
+        "bandage_use"
+      ],
+      "meshOrigin": "Hunyuan-derived; some first-person equipment may include previous supporting geometry",
+      "rigAndMotionOrigin": "Hunyuan and/or Blender supplemental rig; includes Blender-authored animation",
+      "runtimeIntegrated": false
+    },
+    {
+      "file": "miner_hands_equipment.glb",
+      "bytes": 992436,
+      "sha256": "af8b538d30b671c6cc764460f7ce3ebd47a2fd63e23682e1964fccdd75e002ad",
+      "skins": 1,
+      "joints": 30,
+      "animations": [
+        "miner_idle",
+        "flashlight_raise",
+        "flashlight_aim",
+        "key_use",
+        "bandage_use",
+        "miner_walk",
+        "miner_run"
+      ],
+      "meshOrigin": "Hunyuan-derived; some first-person equipment may include previous supporting geometry",
+      "rigAndMotionOrigin": "Hunyuan and/or Blender supplemental rig; includes Blender-authored animation",
+      "runtimeIntegrated": false
+    },
+    {
+      "file": "horn_monster.glb",
+      "bytes": 2789616,
+      "sha256": "4b7a2e3c769fb6d5552907e2b59a92e94dccadb3b3de214e59d8dfee93902758",
+      "skins": 1,
+      "joints": 11,
+      "animations": [
+        "horn_idle",
+        "charge_telegraph",
+        "charge_forward",
+        "charge_recover"
+      ],
+      "meshOrigin": "Hunyuan-derived; some first-person equipment may include previous supporting geometry",
+      "rigAndMotionOrigin": "Hunyuan and/or Blender supplemental rig; includes Blender-authored animation",
+      "runtimeIntegrated": false
+    },
+    {
+      "file": "fourarm_monster.glb",
+      "bytes": 2740916,
+      "sha256": "f4ae5edf549d13a08068edb84276c729c65ef14ce2b25c0aaee9e5866bb08473",
+      "skins": 1,
+      "joints": 19,
+      "animations": [
+        "fourarm_idle",
+        "arm_prepare",
+        "arm_extend",
+        "arm_retract"
+      ],
+      "meshOrigin": "Hunyuan-derived; some first-person equipment may include previous supporting geometry",
+      "rigAndMotionOrigin": "Hunyuan and/or Blender supplemental rig; includes Blender-authored animation",
+      "runtimeIntegrated": false
+    },
+    {
+      "file": "golem_monster_repaired.glb",
+      "bytes": 24542760,
+      "sha256": "24ef1a04b1b43c0ca9f84a71dcc8f4fa8847889fadc8fe70ff5af472fd46dba0",
+      "skins": 1,
+      "joints": 13,
+      "animations": [
+        "golem_idle",
+        "capture_warning",
+        "golem_capture",
+        "golem_walk"
+      ],
+      "meshOrigin": "Hunyuan-derived; some first-person equipment may include previous supporting geometry",
+      "rigAndMotionOrigin": "Hunyuan and/or Blender supplemental rig; includes Blender-authored animation",
+      "runtimeIntegrated": false
+    }
+  ]
+}
